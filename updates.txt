@@ -1,0 +1,12 @@
+Git is a version control system that allows you to track changes made to your files over time 1. It is widely used by developers to manage their code and collaborate with others. 
+GitHub is a web-based platform that provides hosting for Git repositories and additional features such as issue tracking, pull requests, and code review.
+
+To get started with Git and GitHub, you will need to install Git on your computer and create a GitHub account 1. Once you have done that, you can use Git to track changes made to your files and push them to your GitHub repository 1.
+
+Some basic Git commands:
+
+git init: Initializes a new Git repository.
+git add: Adds a file to the staging area.
+git commit: Commits changes to the repository.
+git push: Pushes changes to a remote repository.
+git pull: Pulls changes from a remote repository.
